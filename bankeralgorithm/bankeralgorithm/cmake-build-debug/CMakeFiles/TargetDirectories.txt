@@ -1,0 +1,3 @@
+C:/Users/esha1/OneDrive/Desktop/operating system/bankeralgorithm/bankeralgorithm/cmake-build-debug/CMakeFiles/bankeralgorithm.dir
+C:/Users/esha1/OneDrive/Desktop/operating system/bankeralgorithm/bankeralgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/esha1/OneDrive/Desktop/operating system/bankeralgorithm/bankeralgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
